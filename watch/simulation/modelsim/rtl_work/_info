@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/quartus/project/project_watch/simulation/modelsim
+vmod60
+Z1 !s110 1603254131
+!i10b 1
+!s100 ];Ggz8O@T?3je:AA=893E3
+I2=P=Bk_8?neQ?z4fe?S0=3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1602296029
+8C:/quartus/project/project_watch/mod60.v
+FC:/quartus/project/project_watch/mod60.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1603254131.000000
+!s107 C:/quartus/project/project_watch/mod60.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/quartus/project/project_watch|C:/quartus/project/project_watch/mod60.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/quartus/project/project_watch
+Z7 tCvgOpt 0
+vmodn_cnt
+R1
+!i10b 1
+!s100 KZn[f5e69CRCeEPed5BDI3
+IACMlLo3QfCUL0NJz@YLND2
+R2
+R0
+w1603253196
+8C:/quartus/project/project_watch/modn_cnt.v
+FC:/quartus/project/project_watch/modn_cnt.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/quartus/project/project_watch/modn_cnt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/quartus/project/project_watch|C:/quartus/project/project_watch/modn_cnt.v|
+!i113 1
+R5
+R6
+R7
+vseqhex
+Z8 !s110 1603254132
+!i10b 1
+!s100 C^BlVda83D3[k67LH7L4W2
+In>ID6kBTES57Qnl<UBhf93
+R2
+R0
+w1602289904
+8C:/quartus/project/project_watch/seghex.v
+FC:/quartus/project/project_watch/seghex.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1603254132.000000
+!s107 C:/quartus/project/project_watch/seghex.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/quartus/project/project_watch|C:/quartus/project/project_watch/seghex.v|
+!i113 1
+R5
+R6
+R7
+vtb_watch
+R8
+!i10b 1
+!s100 6>o1@AALBRjDjkeMfBIYV1
+IbMQ1W0ERTX75DoHIi<?F40
+R2
+R0
+w1602292094
+8C:/quartus/project/project_watch/tb_watch.v
+FC:/quartus/project/project_watch/tb_watch.v
+L0 4
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/quartus/project/project_watch/tb_watch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/quartus/project/project_watch|C:/quartus/project/project_watch/tb_watch.v|
+!i113 1
+R5
+R6
+R7
+vwatch
+R8
+!i10b 1
+!s100 9c<oC<LG[19=IHWRZmn5R1
+I1VeE<:6Dh4;i_Y^z;4RlO0
+R2
+R0
+w1602290605
+8C:/quartus/project/project_watch/watch.v
+FC:/quartus/project/project_watch/watch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/quartus/project/project_watch/watch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/quartus/project/project_watch|C:/quartus/project/project_watch/watch.v|
+!i113 1
+R5
+R6
+R7
